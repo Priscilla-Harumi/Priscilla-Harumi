@@ -1,9 +1,9 @@
-***👋 Olá, aqui é Priscilla ❤️
-Muito prazer. ✨***
+##  ***👋 Olá, aqui é Priscilla ❤️***
+***Muito prazer. ✨***
 
 Sou **Analista de Dados** 📊 com experiência no Marketing Farmacêutico 💊 e formação em Biologia 🧬. Sempre em busca de aprender algo novo, estou começando a tocar violão 🎸 e aproveito os fins de semana para fazer trilhas e explorar cachoeiras 🌲. Amo ler 📚 e, se tem uma coisa que não recuso, é uma boa xícara de café ou chá ☕. E você, onde mora, tem uma cafeteria diferente? 🤎😄
 
-Ferramentas que Uso para Análise de Dados:
+**Ferramentas que Uso para Análise de Dados:**
 
 ***Excel*** 📊
 O Excel é a minha base para análises rápidas, organização de dados e criação de relatórios interativos. Utilizo desde fórmulas avançadas até ferramentas como Power Query e Power Pivot para manipulação de grandes volumes de dados.
