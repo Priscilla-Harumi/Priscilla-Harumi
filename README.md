@@ -8,7 +8,8 @@ Sou **Analista de Dados** 📊 com experiência no Marketing Farmacêutico 💊 
 ***Excel*** 📊
 ***Power BI*** 📈
 ***SQL*** 🧑‍💻
-***Python*** 🐍
+***Python*** 🐍 
+
 
 
 
